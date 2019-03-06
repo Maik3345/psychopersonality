@@ -9,6 +9,9 @@
 * Node + Grapqhl: Son herramientas para la parte del Backend, puede encontrar el repositorio en el siguiente link [API_PYSCHOPERSONALITY]()
 * React + Typescript + Redux  REACT_APP(https://github.com/Maik3345/psychopersonality)
 
+## Visualización de los avances
+
+[github Demo](https://maik3345.github.io/psychopersonality/)
 
 ## Creación de un proyecto en React:
 - [Create react app](https://github.com/facebook/create-react-app)
