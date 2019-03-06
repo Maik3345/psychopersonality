@@ -1,8 +1,18 @@
 # PsychoPersonality App
 
+# Integrantes
+
+* Juan Camilo Correa
+* Michael Steven Restrepo
+
 ## Herramientas
 * Node + Grapqhl: Son herramientas para la parte del Backend, puede encontrar el repositorio en el siguiente link [API_PYSCHOPERSONALITY]()
 * React + Typescript + Redux  REACT_APP(https://github.com/Maik3345/psychopersonality)
+
+
+## Creación de un proyecto en React:
+- [Create react app](https://github.com/facebook/create-react-app)
+- Configuración del proyecto con typescript [link](https://facebook.github.io/create-react-app/docs/adding-typescript)
 
 ## Instalación
 
